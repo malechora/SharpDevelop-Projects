@@ -1,0 +1,6 @@
+C:\Users\Agustin\Documents\SharpDevelop Projects\do whilee anasheee\do whilee anasheee\obj\Debug\do whilee anasheee.csprojResolveAssemblyReference.cache
+C:\Users\Agustin\Documents\SharpDevelop Projects\do whilee anasheee\do whilee anasheee\bin\Debug\do whilee anasheee.exe.config
+C:\Users\Agustin\Documents\SharpDevelop Projects\do whilee anasheee\do whilee anasheee\bin\Debug\do whilee anasheee.exe
+C:\Users\Agustin\Documents\SharpDevelop Projects\do whilee anasheee\do whilee anasheee\bin\Debug\do whilee anasheee.pdb
+C:\Users\Agustin\Documents\SharpDevelop Projects\do whilee anasheee\do whilee anasheee\obj\Debug\do whilee anasheee.exe
+C:\Users\Agustin\Documents\SharpDevelop Projects\do whilee anasheee\do whilee anasheee\obj\Debug\do whilee anasheee.pdb

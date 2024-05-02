@@ -1,0 +1,6 @@
+C:\Users\Agustin\Documents\SharpDevelop Projects\PLATZI\circulo\bin\Debug\circulo.exe.config
+C:\Users\Agustin\Documents\SharpDevelop Projects\PLATZI\circulo\bin\Debug\circulo.exe
+C:\Users\Agustin\Documents\SharpDevelop Projects\PLATZI\circulo\bin\Debug\circulo.pdb
+C:\Users\Agustin\Documents\SharpDevelop Projects\PLATZI\circulo\obj\Debug\circulo.csprojResolveAssemblyReference.cache
+C:\Users\Agustin\Documents\SharpDevelop Projects\PLATZI\circulo\obj\Debug\circulo.exe
+C:\Users\Agustin\Documents\SharpDevelop Projects\PLATZI\circulo\obj\Debug\circulo.pdb

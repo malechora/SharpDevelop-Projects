@@ -1,0 +1,6 @@
+C:\Users\Agustin\Documents\SharpDevelop Projects\PLATZI\practifca\obj\Debug\practifca.csprojResolveAssemblyReference.cache
+C:\Users\Agustin\Documents\SharpDevelop Projects\PLATZI\practifca\bin\Debug\practifca.exe.config
+C:\Users\Agustin\Documents\SharpDevelop Projects\PLATZI\practifca\bin\Debug\practifca.exe
+C:\Users\Agustin\Documents\SharpDevelop Projects\PLATZI\practifca\bin\Debug\practifca.pdb
+C:\Users\Agustin\Documents\SharpDevelop Projects\PLATZI\practifca\obj\Debug\practifca.exe
+C:\Users\Agustin\Documents\SharpDevelop Projects\PLATZI\practifca\obj\Debug\practifca.pdb

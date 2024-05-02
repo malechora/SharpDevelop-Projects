@@ -1,0 +1,6 @@
+C:\Users\Agustin\Documents\SharpDevelop Projects\While y Do while\While y Do while\bin\Debug\While y Do while.exe.config
+C:\Users\Agustin\Documents\SharpDevelop Projects\While y Do while\While y Do while\bin\Debug\While y Do while.exe
+C:\Users\Agustin\Documents\SharpDevelop Projects\While y Do while\While y Do while\bin\Debug\While y Do while.pdb
+C:\Users\Agustin\Documents\SharpDevelop Projects\While y Do while\While y Do while\obj\Debug\While y Do while.csprojResolveAssemblyReference.cache
+C:\Users\Agustin\Documents\SharpDevelop Projects\While y Do while\While y Do while\obj\Debug\While y Do while.exe
+C:\Users\Agustin\Documents\SharpDevelop Projects\While y Do while\While y Do while\obj\Debug\While y Do while.pdb

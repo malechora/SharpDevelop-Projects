@@ -1,0 +1,6 @@
+C:\Users\Agustin\Documents\SharpDevelop Projects\POO\POO\bin\Debug\POO.exe.config
+C:\Users\Agustin\Documents\SharpDevelop Projects\POO\POO\bin\Debug\POO.exe
+C:\Users\Agustin\Documents\SharpDevelop Projects\POO\POO\bin\Debug\POO.pdb
+C:\Users\Agustin\Documents\SharpDevelop Projects\POO\POO\obj\Debug\POO.exe
+C:\Users\Agustin\Documents\SharpDevelop Projects\POO\POO\obj\Debug\POO.pdb
+C:\Users\Agustin\Documents\SharpDevelop Projects\POO\POO\obj\Debug\POO.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Users\Agustin\Documents\SharpDevelop Projects\sdasadasd\sdasadasd\bin\Debug\sdasadasd.exe.config
+C:\Users\Agustin\Documents\SharpDevelop Projects\sdasadasd\sdasadasd\bin\Debug\sdasadasd.exe
+C:\Users\Agustin\Documents\SharpDevelop Projects\sdasadasd\sdasadasd\bin\Debug\sdasadasd.pdb
+C:\Users\Agustin\Documents\SharpDevelop Projects\sdasadasd\sdasadasd\obj\Debug\sdasadasd.csprojResolveAssemblyReference.cache
+C:\Users\Agustin\Documents\SharpDevelop Projects\sdasadasd\sdasadasd\obj\Debug\sdasadasd.exe
+C:\Users\Agustin\Documents\SharpDevelop Projects\sdasadasd\sdasadasd\obj\Debug\sdasadasd.pdb

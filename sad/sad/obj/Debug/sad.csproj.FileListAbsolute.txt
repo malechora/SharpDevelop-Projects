@@ -1,0 +1,6 @@
+C:\Users\Agustin\Documents\SharpDevelop Projects\sad\sad\bin\Debug\sad.pdb
+C:\Users\Agustin\Documents\SharpDevelop Projects\sad\sad\obj\Debug\sad.csprojResolveAssemblyReference.cache
+C:\Users\Agustin\Documents\SharpDevelop Projects\sad\sad\obj\Debug\sad.pdb
+C:\Users\Agustin\Documents\SharpDevelop Projects\sad\sad\bin\Debug\sad.exe.config
+C:\Users\Agustin\Documents\SharpDevelop Projects\sad\sad\bin\Debug\sad.exe
+C:\Users\Agustin\Documents\SharpDevelop Projects\sad\sad\obj\Debug\sad.exe

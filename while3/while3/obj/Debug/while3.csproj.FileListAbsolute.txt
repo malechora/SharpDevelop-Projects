@@ -1,0 +1,6 @@
+C:\Users\Agustin\Documents\SharpDevelop Projects\while3\while3\bin\Debug\while3.exe.config
+C:\Users\Agustin\Documents\SharpDevelop Projects\while3\while3\bin\Debug\while3.exe
+C:\Users\Agustin\Documents\SharpDevelop Projects\while3\while3\bin\Debug\while3.pdb
+C:\Users\Agustin\Documents\SharpDevelop Projects\while3\while3\obj\Debug\while3.csprojResolveAssemblyReference.cache
+C:\Users\Agustin\Documents\SharpDevelop Projects\while3\while3\obj\Debug\while3.exe
+C:\Users\Agustin\Documents\SharpDevelop Projects\while3\while3\obj\Debug\while3.pdb

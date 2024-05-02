@@ -1,0 +1,6 @@
+C:\Users\Agustin\Documents\SharpDevelop Projects\dowhilee\dowhilee\obj\Debug\dowhilee.csprojResolveAssemblyReference.cache
+C:\Users\Agustin\Documents\SharpDevelop Projects\dowhilee\dowhilee\bin\Debug\dowhilee.exe.config
+C:\Users\Agustin\Documents\SharpDevelop Projects\dowhilee\dowhilee\bin\Debug\dowhilee.exe
+C:\Users\Agustin\Documents\SharpDevelop Projects\dowhilee\dowhilee\bin\Debug\dowhilee.pdb
+C:\Users\Agustin\Documents\SharpDevelop Projects\dowhilee\dowhilee\obj\Debug\dowhilee.exe
+C:\Users\Agustin\Documents\SharpDevelop Projects\dowhilee\dowhilee\obj\Debug\dowhilee.pdb

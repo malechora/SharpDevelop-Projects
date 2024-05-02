@@ -1,0 +1,18 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 4.4
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "While y Do while", "While y Do while\While y Do while.csproj", "{9A9CC19C-494A-4A73-A441-F0994F5265FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9A9CC19C-494A-4A73-A441-F0994F5265FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A9CC19C-494A-4A73-A441-F0994F5265FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A9CC19C-494A-4A73-A441-F0994F5265FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A9CC19C-494A-4A73-A441-F0994F5265FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+EndGlobal

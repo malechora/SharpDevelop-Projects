@@ -1,0 +1,6 @@
+C:\Users\Agustin\Documents\SharpDevelop Projects\gimnasio\gimnasio\obj\Debug\gimnasio.csprojResolveAssemblyReference.cache
+C:\Users\Agustin\Documents\SharpDevelop Projects\gimnasio\gimnasio\bin\Debug\gimnasio.exe.config
+C:\Users\Agustin\Documents\SharpDevelop Projects\gimnasio\gimnasio\bin\Debug\gimnasio.exe
+C:\Users\Agustin\Documents\SharpDevelop Projects\gimnasio\gimnasio\bin\Debug\gimnasio.pdb
+C:\Users\Agustin\Documents\SharpDevelop Projects\gimnasio\gimnasio\obj\Debug\gimnasio.exe
+C:\Users\Agustin\Documents\SharpDevelop Projects\gimnasio\gimnasio\obj\Debug\gimnasio.pdb

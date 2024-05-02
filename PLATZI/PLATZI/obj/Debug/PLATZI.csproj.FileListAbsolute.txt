@@ -1,0 +1,6 @@
+C:\Users\Agustin\Documents\SharpDevelop Projects\PLATZI\PLATZI\bin\Debug\PLATZI.exe.config
+C:\Users\Agustin\Documents\SharpDevelop Projects\PLATZI\PLATZI\bin\Debug\PLATZI.exe
+C:\Users\Agustin\Documents\SharpDevelop Projects\PLATZI\PLATZI\bin\Debug\PLATZI.pdb
+C:\Users\Agustin\Documents\SharpDevelop Projects\PLATZI\PLATZI\obj\Debug\PLATZI.csprojResolveAssemblyReference.cache
+C:\Users\Agustin\Documents\SharpDevelop Projects\PLATZI\PLATZI\obj\Debug\PLATZI.exe
+C:\Users\Agustin\Documents\SharpDevelop Projects\PLATZI\PLATZI\obj\Debug\PLATZI.pdb

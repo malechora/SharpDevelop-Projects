@@ -1,0 +1,6 @@
+C:\Users\Agustin\Documents\SharpDevelop Projects\for\for\bin\Debug\for.exe.config
+C:\Users\Agustin\Documents\SharpDevelop Projects\for\for\bin\Debug\for.exe
+C:\Users\Agustin\Documents\SharpDevelop Projects\for\for\bin\Debug\for.pdb
+C:\Users\Agustin\Documents\SharpDevelop Projects\for\for\obj\Debug\for.csprojResolveAssemblyReference.cache
+C:\Users\Agustin\Documents\SharpDevelop Projects\for\for\obj\Debug\for.exe
+C:\Users\Agustin\Documents\SharpDevelop Projects\for\for\obj\Debug\for.pdb

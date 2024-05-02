@@ -1,0 +1,6 @@
+C:\Users\Agustin\Documents\SharpDevelop Projects\miguelito\miguelito\obj\Debug\miguelito.csprojResolveAssemblyReference.cache
+C:\Users\Agustin\Documents\SharpDevelop Projects\miguelito\miguelito\bin\Debug\miguelito.exe.config
+C:\Users\Agustin\Documents\SharpDevelop Projects\miguelito\miguelito\bin\Debug\miguelito.exe
+C:\Users\Agustin\Documents\SharpDevelop Projects\miguelito\miguelito\bin\Debug\miguelito.pdb
+C:\Users\Agustin\Documents\SharpDevelop Projects\miguelito\miguelito\obj\Debug\miguelito.exe
+C:\Users\Agustin\Documents\SharpDevelop Projects\miguelito\miguelito\obj\Debug\miguelito.pdb

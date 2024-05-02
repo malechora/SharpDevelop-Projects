@@ -1,0 +1,44 @@
+﻿/*
+ * Created by SharpDevelop.
+ * User: Agustin
+ * Date: 3/1/2024
+ * Time: 00:20
+ * 
+ * To change this template use Tools | Options | Coding | Edit Standard Headers.
+ */
+using System;
+
+namespace practica
+{
+    class Program
+    {
+        public static void Main(string[] args)
+        {
+           // consigna, muestre en consola los numeros del 1 al 20, si un numero es divisible por 3 ponga Fizz , si es divisible por 5 muestre Buzz y si es divisible por ambos ponga FizzBuzz
+            
+            for (int i = 1; i <= 20; i++)
+            {
+            if( i % 5== 0 && i % 3 == 0){
+                	Console.WriteLine("FizzBuzz");
+                }
+            	
+                else if (i % 3 == 0)
+                {
+                    Console.WriteLine("Fizz");
+                }
+                else if (i % 5 == 0)
+                {
+                    Console.WriteLine("Buzz");
+                }
+                
+                else
+                {
+                    Console.WriteLine(i);
+                }
+            }
+
+            Console.Write("Presiona cualquier tecla para continuar...");
+            Console.ReadKey(true);
+        }
+    }
+}

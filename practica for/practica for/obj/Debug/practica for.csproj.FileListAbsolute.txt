@@ -1,0 +1,6 @@
+C:\Users\Agustin\Documents\SharpDevelop Projects\practica for\practica for\obj\Debug\practica for.csprojResolveAssemblyReference.cache
+C:\Users\Agustin\Documents\SharpDevelop Projects\practica for\practica for\bin\Debug\practica for.exe.config
+C:\Users\Agustin\Documents\SharpDevelop Projects\practica for\practica for\bin\Debug\practica for.exe
+C:\Users\Agustin\Documents\SharpDevelop Projects\practica for\practica for\bin\Debug\practica for.pdb
+C:\Users\Agustin\Documents\SharpDevelop Projects\practica for\practica for\obj\Debug\practica for.exe
+C:\Users\Agustin\Documents\SharpDevelop Projects\practica for\practica for\obj\Debug\practica for.pdb

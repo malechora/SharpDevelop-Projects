@@ -1,0 +1,6 @@
+C:\Users\Agustin\Documents\SharpDevelop Projects\while\while\obj\Debug\while.csprojResolveAssemblyReference.cache
+C:\Users\Agustin\Documents\SharpDevelop Projects\while\while\bin\Debug\while.exe.config
+C:\Users\Agustin\Documents\SharpDevelop Projects\while\while\bin\Debug\while.exe
+C:\Users\Agustin\Documents\SharpDevelop Projects\while\while\bin\Debug\while.pdb
+C:\Users\Agustin\Documents\SharpDevelop Projects\while\while\obj\Debug\while.exe
+C:\Users\Agustin\Documents\SharpDevelop Projects\while\while\obj\Debug\while.pdb

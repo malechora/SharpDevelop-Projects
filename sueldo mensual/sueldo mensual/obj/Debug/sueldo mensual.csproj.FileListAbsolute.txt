@@ -1,0 +1,6 @@
+C:\Users\Agustin\Documents\SharpDevelop Projects\sueldo mensual\sueldo mensual\obj\Debug\sueldo mensual.csprojResolveAssemblyReference.cache
+C:\Users\Agustin\Documents\SharpDevelop Projects\sueldo mensual\sueldo mensual\bin\Debug\sueldo mensual.exe.config
+C:\Users\Agustin\Documents\SharpDevelop Projects\sueldo mensual\sueldo mensual\bin\Debug\sueldo mensual.exe
+C:\Users\Agustin\Documents\SharpDevelop Projects\sueldo mensual\sueldo mensual\bin\Debug\sueldo mensual.pdb
+C:\Users\Agustin\Documents\SharpDevelop Projects\sueldo mensual\sueldo mensual\obj\Debug\sueldo mensual.exe
+C:\Users\Agustin\Documents\SharpDevelop Projects\sueldo mensual\sueldo mensual\obj\Debug\sueldo mensual.pdb

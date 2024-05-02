@@ -1,0 +1,6 @@
+C:\Users\Agustin\Documents\SharpDevelop Projects\PLATZI\comparaciones\obj\Debug\comparaciones.csprojResolveAssemblyReference.cache
+C:\Users\Agustin\Documents\SharpDevelop Projects\PLATZI\comparaciones\bin\Debug\comparaciones.exe.config
+C:\Users\Agustin\Documents\SharpDevelop Projects\PLATZI\comparaciones\bin\Debug\comparaciones.exe
+C:\Users\Agustin\Documents\SharpDevelop Projects\PLATZI\comparaciones\bin\Debug\comparaciones.pdb
+C:\Users\Agustin\Documents\SharpDevelop Projects\PLATZI\comparaciones\obj\Debug\comparaciones.exe
+C:\Users\Agustin\Documents\SharpDevelop Projects\PLATZI\comparaciones\obj\Debug\comparaciones.pdb

@@ -1,0 +1,6 @@
+C:\Users\Agustin\Documents\SharpDevelop Projects\funciones\funciones\obj\Debug\funciones.csprojResolveAssemblyReference.cache
+C:\Users\Agustin\Documents\SharpDevelop Projects\funciones\funciones\bin\Debug\funciones.exe.config
+C:\Users\Agustin\Documents\SharpDevelop Projects\funciones\funciones\bin\Debug\funciones.exe
+C:\Users\Agustin\Documents\SharpDevelop Projects\funciones\funciones\bin\Debug\funciones.pdb
+C:\Users\Agustin\Documents\SharpDevelop Projects\funciones\funciones\obj\Debug\funciones.exe
+C:\Users\Agustin\Documents\SharpDevelop Projects\funciones\funciones\obj\Debug\funciones.pdb

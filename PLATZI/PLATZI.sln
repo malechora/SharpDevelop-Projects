@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 4.4
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PLATZI", "PLATZI\PLATZI.csproj", "{7620A98D-E7CF-4E79-B0A0-5C41AAD40A41}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "circulo", "circulo\circulo.csproj", "{A61B1FFE-3A22-45ED-91BB-3F23BCA406FC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "comparaciones", "comparaciones\comparaciones.csproj", "{E01C474A-51BC-4D06-B7D6-96B18AC0020A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "practifca", "practifca\practifca.csproj", "{534CC1D1-24C7-4593-935D-4D9F2E7A1B5C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7620A98D-E7CF-4E79-B0A0-5C41AAD40A41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7620A98D-E7CF-4E79-B0A0-5C41AAD40A41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7620A98D-E7CF-4E79-B0A0-5C41AAD40A41}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7620A98D-E7CF-4E79-B0A0-5C41AAD40A41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A61B1FFE-3A22-45ED-91BB-3F23BCA406FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A61B1FFE-3A22-45ED-91BB-3F23BCA406FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A61B1FFE-3A22-45ED-91BB-3F23BCA406FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A61B1FFE-3A22-45ED-91BB-3F23BCA406FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E01C474A-51BC-4D06-B7D6-96B18AC0020A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E01C474A-51BC-4D06-B7D6-96B18AC0020A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E01C474A-51BC-4D06-B7D6-96B18AC0020A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E01C474A-51BC-4D06-B7D6-96B18AC0020A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{534CC1D1-24C7-4593-935D-4D9F2E7A1B5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{534CC1D1-24C7-4593-935D-4D9F2E7A1B5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{534CC1D1-24C7-4593-935D-4D9F2E7A1B5C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{534CC1D1-24C7-4593-935D-4D9F2E7A1B5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+EndGlobal
