@@ -1,0 +1,6 @@
+C:\Users\Agustin\Documents\SharpDevelop Projects\Juego POO\Juego POO\obj\Debug\Juego POO.csprojResolveAssemblyReference.cache
+C:\Users\Agustin\Documents\SharpDevelop Projects\Juego POO\Juego POO\bin\Debug\Juego POO.exe.config
+C:\Users\Agustin\Documents\SharpDevelop Projects\Juego POO\Juego POO\bin\Debug\Juego POO.exe
+C:\Users\Agustin\Documents\SharpDevelop Projects\Juego POO\Juego POO\bin\Debug\Juego POO.pdb
+C:\Users\Agustin\Documents\SharpDevelop Projects\Juego POO\Juego POO\obj\Debug\Juego POO.exe
+C:\Users\Agustin\Documents\SharpDevelop Projects\Juego POO\Juego POO\obj\Debug\Juego POO.pdb

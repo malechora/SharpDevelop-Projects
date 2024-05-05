@@ -1,0 +1,6 @@
+C:\Users\Agustin\Documents\SharpDevelop Projects\clases2\clases2\obj\Debug\clases2.csprojResolveAssemblyReference.cache
+C:\Users\Agustin\Documents\SharpDevelop Projects\clases2\clases2\bin\Debug\clases2.exe.config
+C:\Users\Agustin\Documents\SharpDevelop Projects\clases2\clases2\bin\Debug\clases2.exe
+C:\Users\Agustin\Documents\SharpDevelop Projects\clases2\clases2\bin\Debug\clases2.pdb
+C:\Users\Agustin\Documents\SharpDevelop Projects\clases2\clases2\obj\Debug\clases2.exe
+C:\Users\Agustin\Documents\SharpDevelop Projects\clases2\clases2\obj\Debug\clases2.pdb

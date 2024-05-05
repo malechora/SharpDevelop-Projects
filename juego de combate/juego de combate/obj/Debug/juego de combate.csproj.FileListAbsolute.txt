@@ -1,0 +1,6 @@
+C:\Users\Agustin\Documents\SharpDevelop Projects\juego de combate\juego de combate\bin\Debug\juego de combate.exe.config
+C:\Users\Agustin\Documents\SharpDevelop Projects\juego de combate\juego de combate\bin\Debug\juego de combate.exe
+C:\Users\Agustin\Documents\SharpDevelop Projects\juego de combate\juego de combate\bin\Debug\juego de combate.pdb
+C:\Users\Agustin\Documents\SharpDevelop Projects\juego de combate\juego de combate\obj\Debug\juego de combate.csprojResolveAssemblyReference.cache
+C:\Users\Agustin\Documents\SharpDevelop Projects\juego de combate\juego de combate\obj\Debug\juego de combate.exe
+C:\Users\Agustin\Documents\SharpDevelop Projects\juego de combate\juego de combate\obj\Debug\juego de combate.pdb

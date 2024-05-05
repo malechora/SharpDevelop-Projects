@@ -1,0 +1,6 @@
+C:\Users\Agustin\Documents\SharpDevelop Projects\para la burrita de mica\para la burrita de mica\bin\Debug\para la burrita de mica.exe.config
+C:\Users\Agustin\Documents\SharpDevelop Projects\para la burrita de mica\para la burrita de mica\bin\Debug\para la burrita de mica.exe
+C:\Users\Agustin\Documents\SharpDevelop Projects\para la burrita de mica\para la burrita de mica\bin\Debug\para la burrita de mica.pdb
+C:\Users\Agustin\Documents\SharpDevelop Projects\para la burrita de mica\para la burrita de mica\obj\Debug\para la burrita de mica.csprojResolveAssemblyReference.cache
+C:\Users\Agustin\Documents\SharpDevelop Projects\para la burrita de mica\para la burrita de mica\obj\Debug\para la burrita de mica.exe
+C:\Users\Agustin\Documents\SharpDevelop Projects\para la burrita de mica\para la burrita de mica\obj\Debug\para la burrita de mica.pdb
