@@ -1,0 +1,6 @@
+C:\Users\Agustin\Documents\SharpDevelop Projects\Suma de los Primeros N Números Naturales\Suma de los Primeros N Números Naturales\obj\Debug\Suma de los Primeros N Números Naturales.csprojResolveAssemblyReference.cache
+C:\Users\Agustin\Documents\SharpDevelop Projects\Suma de los Primeros N Números Naturales\Suma de los Primeros N Números Naturales\bin\Debug\Suma de los Primeros N Números Naturales.exe.config
+C:\Users\Agustin\Documents\SharpDevelop Projects\Suma de los Primeros N Números Naturales\Suma de los Primeros N Números Naturales\bin\Debug\Suma de los Primeros N Números Naturales.exe
+C:\Users\Agustin\Documents\SharpDevelop Projects\Suma de los Primeros N Números Naturales\Suma de los Primeros N Números Naturales\bin\Debug\Suma de los Primeros N Números Naturales.pdb
+C:\Users\Agustin\Documents\SharpDevelop Projects\Suma de los Primeros N Números Naturales\Suma de los Primeros N Números Naturales\obj\Debug\Suma de los Primeros N Números Naturales.exe
+C:\Users\Agustin\Documents\SharpDevelop Projects\Suma de los Primeros N Números Naturales\Suma de los Primeros N Números Naturales\obj\Debug\Suma de los Primeros N Números Naturales.pdb

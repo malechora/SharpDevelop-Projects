@@ -1,0 +1,6 @@
+C:\Users\Agustin\Documents\SharpDevelop Projects\numeros pares e impares\numeros pares e impares\obj\Debug\numeros pares e impares.csprojResolveAssemblyReference.cache
+C:\Users\Agustin\Documents\SharpDevelop Projects\numeros pares e impares\numeros pares e impares\bin\Debug\numeros pares e impares.exe.config
+C:\Users\Agustin\Documents\SharpDevelop Projects\numeros pares e impares\numeros pares e impares\bin\Debug\numeros pares e impares.exe
+C:\Users\Agustin\Documents\SharpDevelop Projects\numeros pares e impares\numeros pares e impares\bin\Debug\numeros pares e impares.pdb
+C:\Users\Agustin\Documents\SharpDevelop Projects\numeros pares e impares\numeros pares e impares\obj\Debug\numeros pares e impares.exe
+C:\Users\Agustin\Documents\SharpDevelop Projects\numeros pares e impares\numeros pares e impares\obj\Debug\numeros pares e impares.pdb

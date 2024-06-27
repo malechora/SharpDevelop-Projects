@@ -12,14 +12,14 @@ class Program
 {
     static void Main(string[] args)
     {
-        int suma = 0; // Inicializamos la variable suma en 0 antes del bucle
+        int multiplicacion = 1; // Inicializamos la variable suma en 0 antes del bucle
 
         for (int i = 1; i <= 10; i++)
         {
-            suma += i; // Acumulamos la suma en cada iteración
+            multiplicacion *= i; // Acumulamos la suma en cada iteración
         }
         
-        Console.WriteLine("La suma de los números del 1 al 10 es: " + suma);
+        Console.WriteLine("La suma de los números del 1 al 10 es: " + multiplicacion);
 
         Console.ReadKey();
     }

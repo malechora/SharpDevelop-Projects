@@ -1,0 +1,6 @@
+C:\Users\Agustin\Documents\SharpDevelop Projects\area y perimetro de un rectangulo\area y perimetro de un rectangulo\bin\Debug\area y perimetro de un rectangulo.exe.config
+C:\Users\Agustin\Documents\SharpDevelop Projects\area y perimetro de un rectangulo\area y perimetro de un rectangulo\bin\Debug\area y perimetro de un rectangulo.exe
+C:\Users\Agustin\Documents\SharpDevelop Projects\area y perimetro de un rectangulo\area y perimetro de un rectangulo\bin\Debug\area y perimetro de un rectangulo.pdb
+C:\Users\Agustin\Documents\SharpDevelop Projects\area y perimetro de un rectangulo\area y perimetro de un rectangulo\obj\Debug\area y perimetro de un rectangulo.csprojResolveAssemblyReference.cache
+C:\Users\Agustin\Documents\SharpDevelop Projects\area y perimetro de un rectangulo\area y perimetro de un rectangulo\obj\Debug\area y perimetro de un rectangulo.exe
+C:\Users\Agustin\Documents\SharpDevelop Projects\area y perimetro de un rectangulo\area y perimetro de un rectangulo\obj\Debug\area y perimetro de un rectangulo.pdb

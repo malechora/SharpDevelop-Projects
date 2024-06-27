@@ -1,0 +1,6 @@
+C:\Users\Agustin\Documents\SharpDevelop Projects\numero primo\numero primo\bin\Debug\numero primo.exe.config
+C:\Users\Agustin\Documents\SharpDevelop Projects\numero primo\numero primo\bin\Debug\numero primo.exe
+C:\Users\Agustin\Documents\SharpDevelop Projects\numero primo\numero primo\bin\Debug\numero primo.pdb
+C:\Users\Agustin\Documents\SharpDevelop Projects\numero primo\numero primo\obj\Debug\numero primo.csprojResolveAssemblyReference.cache
+C:\Users\Agustin\Documents\SharpDevelop Projects\numero primo\numero primo\obj\Debug\numero primo.exe
+C:\Users\Agustin\Documents\SharpDevelop Projects\numero primo\numero primo\obj\Debug\numero primo.pdb

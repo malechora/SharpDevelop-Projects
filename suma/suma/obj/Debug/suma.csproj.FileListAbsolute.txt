@@ -1,0 +1,6 @@
+C:\Users\Agustin\Documents\SharpDevelop Projects\suma\suma\obj\Debug\suma.csprojResolveAssemblyReference.cache
+C:\Users\Agustin\Documents\SharpDevelop Projects\suma\suma\bin\Debug\suma.exe.config
+C:\Users\Agustin\Documents\SharpDevelop Projects\suma\suma\bin\Debug\suma.exe
+C:\Users\Agustin\Documents\SharpDevelop Projects\suma\suma\bin\Debug\suma.pdb
+C:\Users\Agustin\Documents\SharpDevelop Projects\suma\suma\obj\Debug\suma.exe
+C:\Users\Agustin\Documents\SharpDevelop Projects\suma\suma\obj\Debug\suma.pdb

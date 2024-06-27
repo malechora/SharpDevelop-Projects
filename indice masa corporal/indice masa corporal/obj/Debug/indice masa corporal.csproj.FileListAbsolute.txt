@@ -1,0 +1,6 @@
+C:\Users\Agustin\Documents\SharpDevelop Projects\indice masa corporal\indice masa corporal\bin\Debug\indice masa corporal.exe.config
+C:\Users\Agustin\Documents\SharpDevelop Projects\indice masa corporal\indice masa corporal\bin\Debug\indice masa corporal.exe
+C:\Users\Agustin\Documents\SharpDevelop Projects\indice masa corporal\indice masa corporal\bin\Debug\indice masa corporal.pdb
+C:\Users\Agustin\Documents\SharpDevelop Projects\indice masa corporal\indice masa corporal\obj\Debug\indice masa corporal.csprojResolveAssemblyReference.cache
+C:\Users\Agustin\Documents\SharpDevelop Projects\indice masa corporal\indice masa corporal\obj\Debug\indice masa corporal.exe
+C:\Users\Agustin\Documents\SharpDevelop Projects\indice masa corporal\indice masa corporal\obj\Debug\indice masa corporal.pdb

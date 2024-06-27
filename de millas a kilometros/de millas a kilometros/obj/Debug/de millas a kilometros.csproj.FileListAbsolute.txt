@@ -1,0 +1,6 @@
+C:\Users\Agustin\Documents\SharpDevelop Projects\de millas a kilometros\de millas a kilometros\bin\Debug\de millas a kilometros.exe.config
+C:\Users\Agustin\Documents\SharpDevelop Projects\de millas a kilometros\de millas a kilometros\bin\Debug\de millas a kilometros.exe
+C:\Users\Agustin\Documents\SharpDevelop Projects\de millas a kilometros\de millas a kilometros\bin\Debug\de millas a kilometros.pdb
+C:\Users\Agustin\Documents\SharpDevelop Projects\de millas a kilometros\de millas a kilometros\obj\Debug\de millas a kilometros.csprojResolveAssemblyReference.cache
+C:\Users\Agustin\Documents\SharpDevelop Projects\de millas a kilometros\de millas a kilometros\obj\Debug\de millas a kilometros.exe
+C:\Users\Agustin\Documents\SharpDevelop Projects\de millas a kilometros\de millas a kilometros\obj\Debug\de millas a kilometros.pdb

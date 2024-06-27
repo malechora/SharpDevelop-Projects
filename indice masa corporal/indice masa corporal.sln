@@ -1,0 +1,18 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 4.4
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "indice masa corporal", "indice masa corporal\indice masa corporal.csproj", "{7DC62730-8893-4E43-A676-9F870DF49D6A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7DC62730-8893-4E43-A676-9F870DF49D6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DC62730-8893-4E43-A676-9F870DF49D6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DC62730-8893-4E43-A676-9F870DF49D6A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7DC62730-8893-4E43-A676-9F870DF49D6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+EndGlobal

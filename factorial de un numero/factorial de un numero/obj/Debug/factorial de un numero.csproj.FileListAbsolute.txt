@@ -1,0 +1,6 @@
+C:\Users\Agustin\Documents\SharpDevelop Projects\factorial de un numero\factorial de un numero\bin\Debug\factorial de un numero.exe.config
+C:\Users\Agustin\Documents\SharpDevelop Projects\factorial de un numero\factorial de un numero\bin\Debug\factorial de un numero.exe
+C:\Users\Agustin\Documents\SharpDevelop Projects\factorial de un numero\factorial de un numero\bin\Debug\factorial de un numero.pdb
+C:\Users\Agustin\Documents\SharpDevelop Projects\factorial de un numero\factorial de un numero\obj\Debug\factorial de un numero.csprojResolveAssemblyReference.cache
+C:\Users\Agustin\Documents\SharpDevelop Projects\factorial de un numero\factorial de un numero\obj\Debug\factorial de un numero.exe
+C:\Users\Agustin\Documents\SharpDevelop Projects\factorial de un numero\factorial de un numero\obj\Debug\factorial de un numero.pdb
