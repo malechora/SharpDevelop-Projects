@@ -32,7 +32,7 @@ namespace factorial_de_un_numero
 			  Console.WriteLine("¿Desea calcular otro factorial? (S/N)");
         string resp = Console.ReadLine();
 
-        if (resp != "s")
+        if (resp == "n")
         {
             repetir = false;  
         }

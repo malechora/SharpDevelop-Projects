@@ -1,0 +1,6 @@
+C:\Users\Agustin\Documents\SharpDevelop Projects\vocales\vocales\obj\Debug\vocales.csprojResolveAssemblyReference.cache
+C:\Users\Agustin\Documents\SharpDevelop Projects\vocales\vocales\bin\Debug\vocales.exe.config
+C:\Users\Agustin\Documents\SharpDevelop Projects\vocales\vocales\bin\Debug\vocales.exe
+C:\Users\Agustin\Documents\SharpDevelop Projects\vocales\vocales\bin\Debug\vocales.pdb
+C:\Users\Agustin\Documents\SharpDevelop Projects\vocales\vocales\obj\Debug\vocales.exe
+C:\Users\Agustin\Documents\SharpDevelop Projects\vocales\vocales\obj\Debug\vocales.pdb

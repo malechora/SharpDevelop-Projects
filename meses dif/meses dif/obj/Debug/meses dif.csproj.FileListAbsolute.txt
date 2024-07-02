@@ -1,0 +1,6 @@
+C:\Users\Agustin\Documents\SharpDevelop Projects\meses dif\meses dif\obj\Debug\meses dif.csprojResolveAssemblyReference.cache
+C:\Users\Agustin\Documents\SharpDevelop Projects\meses dif\meses dif\bin\Debug\meses dif.exe.config
+C:\Users\Agustin\Documents\SharpDevelop Projects\meses dif\meses dif\bin\Debug\meses dif.exe
+C:\Users\Agustin\Documents\SharpDevelop Projects\meses dif\meses dif\bin\Debug\meses dif.pdb
+C:\Users\Agustin\Documents\SharpDevelop Projects\meses dif\meses dif\obj\Debug\meses dif.exe
+C:\Users\Agustin\Documents\SharpDevelop Projects\meses dif\meses dif\obj\Debug\meses dif.pdb
