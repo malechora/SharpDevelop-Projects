@@ -1,0 +1,6 @@
+C:\Users\Agustin\Documents\SharpDevelop Projects\numero mayor\numero mayor\bin\Debug\numero mayor.exe.config
+C:\Users\Agustin\Documents\SharpDevelop Projects\numero mayor\numero mayor\bin\Debug\numero mayor.exe
+C:\Users\Agustin\Documents\SharpDevelop Projects\numero mayor\numero mayor\bin\Debug\numero mayor.pdb
+C:\Users\Agustin\Documents\SharpDevelop Projects\numero mayor\numero mayor\obj\Debug\numero mayor.csprojResolveAssemblyReference.cache
+C:\Users\Agustin\Documents\SharpDevelop Projects\numero mayor\numero mayor\obj\Debug\numero mayor.exe
+C:\Users\Agustin\Documents\SharpDevelop Projects\numero mayor\numero mayor\obj\Debug\numero mayor.pdb
