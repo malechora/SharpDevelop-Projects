@@ -1,0 +1,18 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 4.4
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "piedra papel o tijera", "piedra papel o tijera\piedra papel o tijera.csproj", "{D5D9EDF0-1C6B-4F97-9F75-58494EDB7BFA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D5D9EDF0-1C6B-4F97-9F75-58494EDB7BFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5D9EDF0-1C6B-4F97-9F75-58494EDB7BFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5D9EDF0-1C6B-4F97-9F75-58494EDB7BFA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5D9EDF0-1C6B-4F97-9F75-58494EDB7BFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+EndGlobal

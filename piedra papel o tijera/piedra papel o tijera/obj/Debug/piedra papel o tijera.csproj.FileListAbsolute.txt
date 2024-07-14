@@ -1,0 +1,6 @@
+C:\Users\Agustin\Documents\SharpDevelop Projects\piedra papel o tijera\piedra papel o tijera\obj\Debug\piedra papel o tijera.csprojResolveAssemblyReference.cache
+C:\Users\Agustin\Documents\SharpDevelop Projects\piedra papel o tijera\piedra papel o tijera\bin\Debug\piedra papel o tijera.exe.config
+C:\Users\Agustin\Documents\SharpDevelop Projects\piedra papel o tijera\piedra papel o tijera\bin\Debug\piedra papel o tijera.exe
+C:\Users\Agustin\Documents\SharpDevelop Projects\piedra papel o tijera\piedra papel o tijera\bin\Debug\piedra papel o tijera.pdb
+C:\Users\Agustin\Documents\SharpDevelop Projects\piedra papel o tijera\piedra papel o tijera\obj\Debug\piedra papel o tijera.exe
+C:\Users\Agustin\Documents\SharpDevelop Projects\piedra papel o tijera\piedra papel o tijera\obj\Debug\piedra papel o tijera.pdb
