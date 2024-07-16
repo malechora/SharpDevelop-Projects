@@ -1,0 +1,6 @@
+C:\Users\Agustin\Documents\SharpDevelop Projects\piedra paoel o tijera\piedra papel o tijera form\bin\Debug\piedra papel o tijera form.exe.config
+C:\Users\Agustin\Documents\SharpDevelop Projects\piedra paoel o tijera\piedra papel o tijera form\bin\Debug\piedra papel o tijera form.exe
+C:\Users\Agustin\Documents\SharpDevelop Projects\piedra paoel o tijera\piedra papel o tijera form\bin\Debug\piedra papel o tijera form.pdb
+C:\Users\Agustin\Documents\SharpDevelop Projects\piedra paoel o tijera\piedra papel o tijera form\obj\Debug\piedra papel o tijera form.csprojResolveAssemblyReference.cache
+C:\Users\Agustin\Documents\SharpDevelop Projects\piedra paoel o tijera\piedra papel o tijera form\obj\Debug\piedra papel o tijera form.exe
+C:\Users\Agustin\Documents\SharpDevelop Projects\piedra paoel o tijera\piedra papel o tijera form\obj\Debug\piedra papel o tijera form.pdb

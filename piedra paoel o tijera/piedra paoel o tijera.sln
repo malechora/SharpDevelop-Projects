@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 4.4
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "piedra paoel o tijera", "piedra paoel o tijera\piedra paoel o tijera.csproj", "{8E1B9DB0-E9D2-41A4-AD74-BEE7012273AA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "piedra papel o tijera form", "piedra papel o tijera form\piedra papel o tijera form.csproj", "{8BFE4F8F-64A9-43BF-9380-4815B79FF18A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8E1B9DB0-E9D2-41A4-AD74-BEE7012273AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E1B9DB0-E9D2-41A4-AD74-BEE7012273AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E1B9DB0-E9D2-41A4-AD74-BEE7012273AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E1B9DB0-E9D2-41A4-AD74-BEE7012273AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BFE4F8F-64A9-43BF-9380-4815B79FF18A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BFE4F8F-64A9-43BF-9380-4815B79FF18A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BFE4F8F-64A9-43BF-9380-4815B79FF18A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8BFE4F8F-64A9-43BF-9380-4815B79FF18A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+EndGlobal

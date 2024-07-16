@@ -1,0 +1,8 @@
+C:\Users\Agustin\Documents\SharpDevelop Projects\piedra paoel o tijera\piedra paoel o tijera\bin\Debug\piedra paoel o tijera.exe.config
+C:\Users\Agustin\Documents\SharpDevelop Projects\piedra paoel o tijera\piedra paoel o tijera\bin\Debug\piedra paoel o tijera.exe
+C:\Users\Agustin\Documents\SharpDevelop Projects\piedra paoel o tijera\piedra paoel o tijera\bin\Debug\piedra paoel o tijera.pdb
+C:\Users\Agustin\Documents\SharpDevelop Projects\piedra paoel o tijera\piedra paoel o tijera\obj\Debug\piedra paoel o tijera.csprojResolveAssemblyReference.cache
+C:\Users\Agustin\Documents\SharpDevelop Projects\piedra paoel o tijera\piedra paoel o tijera\obj\Debug\piedra paoel o tijera.exe
+C:\Users\Agustin\Documents\SharpDevelop Projects\piedra paoel o tijera\piedra paoel o tijera\obj\Debug\piedra paoel o tijera.pdb
+C:\Users\Agustin\Documents\SharpDevelop Projects\piedra paoel o tijera\piedra paoel o tijera\obj\Debug\piedra_paoel_o_tijera.Form1.resources
+C:\Users\Agustin\Documents\SharpDevelop Projects\piedra paoel o tijera\piedra paoel o tijera\obj\Debug\piedra paoel o tijera.csproj.GenerateResource.Cache

@@ -1,0 +1,6 @@
+C:\Users\Agustin\Documents\SharpDevelop Projects\bucle forl\bucle forl\bin\Debug\bucle forl.exe.config
+C:\Users\Agustin\Documents\SharpDevelop Projects\bucle forl\bucle forl\bin\Debug\bucle forl.exe
+C:\Users\Agustin\Documents\SharpDevelop Projects\bucle forl\bucle forl\bin\Debug\bucle forl.pdb
+C:\Users\Agustin\Documents\SharpDevelop Projects\bucle forl\bucle forl\obj\Debug\bucle forl.csprojResolveAssemblyReference.cache
+C:\Users\Agustin\Documents\SharpDevelop Projects\bucle forl\bucle forl\obj\Debug\bucle forl.exe
+C:\Users\Agustin\Documents\SharpDevelop Projects\bucle forl\bucle forl\obj\Debug\bucle forl.pdb
