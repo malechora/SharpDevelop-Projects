@@ -1,0 +1,8 @@
+C:\Users\Agustin\Documents\SharpDevelop Projects\pied papel tijera\pied papel tijera\obj\Debug\pied papel tijera.csprojResolveAssemblyReference.cache
+C:\Users\Agustin\Documents\SharpDevelop Projects\pied papel tijera\pied papel tijera\obj\Debug\pied_papel_tijera.MainForm.resources
+C:\Users\Agustin\Documents\SharpDevelop Projects\pied papel tijera\pied papel tijera\obj\Debug\pied papel tijera.csproj.GenerateResource.Cache
+C:\Users\Agustin\Documents\SharpDevelop Projects\pied papel tijera\pied papel tijera\bin\Debug\pied papel tijera.exe.config
+C:\Users\Agustin\Documents\SharpDevelop Projects\pied papel tijera\pied papel tijera\bin\Debug\pied papel tijera.exe
+C:\Users\Agustin\Documents\SharpDevelop Projects\pied papel tijera\pied papel tijera\bin\Debug\pied papel tijera.pdb
+C:\Users\Agustin\Documents\SharpDevelop Projects\pied papel tijera\pied papel tijera\obj\Debug\pied papel tijera.exe
+C:\Users\Agustin\Documents\SharpDevelop Projects\pied papel tijera\pied papel tijera\obj\Debug\pied papel tijera.pdb
