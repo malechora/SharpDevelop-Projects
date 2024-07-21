@@ -15,9 +15,10 @@ namespace calculadora
 	
 			
 			InitializeComponent();
-			
 		
-		}
+			
+		}	
+		
 		
 		string operador = "";
 		int num1;
